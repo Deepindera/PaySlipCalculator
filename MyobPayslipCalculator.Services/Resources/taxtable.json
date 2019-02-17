@@ -1,0 +1,37 @@
+[
+  {
+    "lowerlimit": 0,
+    "upperlimit": 18200,
+    "factorincents": 0,
+    "baseamount": 0,
+    "taxable": false
+  },
+  {
+    "lowerlimit": 18200,
+    "upperlimit": 37000,
+    "factorincents": 19,
+    "baseamount": 0,
+    "taxable": true
+  },
+   {
+    "lowerlimit": 37000,
+    "upperlimit": 87000,
+    "factorincents": 32.5,
+    "baseamount": 3572,
+    "taxable": true
+  },
+   {
+    "lowerlimit": 87000,
+    "upperlimit": 180000,
+    "factorincents": 37,
+    "baseamount": 19822,
+    "taxable": true
+  },
+   {
+    "lowerlimit": 180000,
+    "upperlimit": 100000000000,
+    "factorincents": 45,
+    "baseamount": 54232,
+    "taxable": true
+  }
+]

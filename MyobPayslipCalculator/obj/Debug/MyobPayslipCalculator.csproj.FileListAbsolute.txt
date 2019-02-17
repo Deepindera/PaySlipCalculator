@@ -1,0 +1,5 @@
+C:\Users\Dee\documents\visual studio 2015\Projects\MyobPayslipCalculator\MyobPayslipCalculator\bin\Debug\MyobPayslipCalculator.exe.config
+C:\Users\Dee\documents\visual studio 2015\Projects\MyobPayslipCalculator\MyobPayslipCalculator\bin\Debug\MyobPayslipCalculator.exe
+C:\Users\Dee\documents\visual studio 2015\Projects\MyobPayslipCalculator\MyobPayslipCalculator\bin\Debug\MyobPayslipCalculator.pdb
+C:\Users\Dee\documents\visual studio 2015\Projects\MyobPayslipCalculator\MyobPayslipCalculator\obj\Debug\MyobPayslipCalculator.exe
+C:\Users\Dee\documents\visual studio 2015\Projects\MyobPayslipCalculator\MyobPayslipCalculator\obj\Debug\MyobPayslipCalculator.pdb

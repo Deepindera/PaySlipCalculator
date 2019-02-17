@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyobPayslipCalculator", "MyobPayslipCalculator\MyobPayslipCalculator.csproj", "{B6207D1A-EE62-45A1-8B51-770A9E82E7B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyobPayslipCalculator.Model", "MyobPayslipCalculator.Model\MyobPayslipCalculator.Model.csproj", "{BBE6D406-16A2-4130-820C-D054FD69DEF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyobPayslipCalculator.Services", "MyobPayslipCalculator.Services\MyobPayslipCalculator.Services.csproj", "{88501DF8-9A0C-47CB-99B1-A947F44C47FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyobPayslipCalculator.Tests", "MyobPayslipCalculator.Tests\MyobPayslipCalculator.Tests.csproj", "{BD4EB1BA-E55C-4BE0-A9C8-0E2CCE467C00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6207D1A-EE62-45A1-8B51-770A9E82E7B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6207D1A-EE62-45A1-8B51-770A9E82E7B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6207D1A-EE62-45A1-8B51-770A9E82E7B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6207D1A-EE62-45A1-8B51-770A9E82E7B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBE6D406-16A2-4130-820C-D054FD69DEF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBE6D406-16A2-4130-820C-D054FD69DEF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBE6D406-16A2-4130-820C-D054FD69DEF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBE6D406-16A2-4130-820C-D054FD69DEF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88501DF8-9A0C-47CB-99B1-A947F44C47FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88501DF8-9A0C-47CB-99B1-A947F44C47FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88501DF8-9A0C-47CB-99B1-A947F44C47FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88501DF8-9A0C-47CB-99B1-A947F44C47FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD4EB1BA-E55C-4BE0-A9C8-0E2CCE467C00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD4EB1BA-E55C-4BE0-A9C8-0E2CCE467C00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD4EB1BA-E55C-4BE0-A9C8-0E2CCE467C00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD4EB1BA-E55C-4BE0-A9C8-0E2CCE467C00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

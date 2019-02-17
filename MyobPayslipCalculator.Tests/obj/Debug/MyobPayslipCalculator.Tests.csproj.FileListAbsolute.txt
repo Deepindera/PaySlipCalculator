@@ -1,0 +1,16 @@
+C:\Users\Dee\documents\visual studio 2015\Projects\MyobPayslipCalculator\MyobPayslipCalculator.Tests\bin\Debug\MyobPayslipCalculator.Tests.dll
+C:\Users\Dee\documents\visual studio 2015\Projects\MyobPayslipCalculator\MyobPayslipCalculator.Tests\bin\Debug\MyobPayslipCalculator.Tests.pdb
+C:\Users\Dee\documents\visual studio 2015\Projects\MyobPayslipCalculator\MyobPayslipCalculator.Tests\bin\Debug\MyobPayslipCalculator.Model.dll
+C:\Users\Dee\documents\visual studio 2015\Projects\MyobPayslipCalculator\MyobPayslipCalculator.Tests\bin\Debug\MyobPayslipCalculator.Services.dll
+C:\Users\Dee\documents\visual studio 2015\Projects\MyobPayslipCalculator\MyobPayslipCalculator.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Dee\documents\visual studio 2015\Projects\MyobPayslipCalculator\MyobPayslipCalculator.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dee\documents\visual studio 2015\Projects\MyobPayslipCalculator\MyobPayslipCalculator.Tests\bin\Debug\MyobPayslipCalculator.Model.pdb
+C:\Users\Dee\documents\visual studio 2015\Projects\MyobPayslipCalculator\MyobPayslipCalculator.Tests\bin\Debug\MyobPayslipCalculator.Services.pdb
+C:\Users\Dee\documents\visual studio 2015\Projects\MyobPayslipCalculator\MyobPayslipCalculator.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Dee\documents\visual studio 2015\Projects\MyobPayslipCalculator\MyobPayslipCalculator.Tests\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Dee\documents\visual studio 2015\Projects\MyobPayslipCalculator\MyobPayslipCalculator.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dee\documents\visual studio 2015\Projects\MyobPayslipCalculator\MyobPayslipCalculator.Tests\obj\Debug\MyobPayslipCalculator.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Dee\documents\visual studio 2015\Projects\MyobPayslipCalculator\MyobPayslipCalculator.Tests\obj\Debug\MyobPayslipCalculator.Tests.Properties.Resources.resources
+C:\Users\Dee\documents\visual studio 2015\Projects\MyobPayslipCalculator\MyobPayslipCalculator.Tests\obj\Debug\MyobPayslipCalculator.Tests.csproj.GenerateResource.Cache
+C:\Users\Dee\documents\visual studio 2015\Projects\MyobPayslipCalculator\MyobPayslipCalculator.Tests\obj\Debug\MyobPayslipCalculator.Tests.dll
+C:\Users\Dee\documents\visual studio 2015\Projects\MyobPayslipCalculator\MyobPayslipCalculator.Tests\obj\Debug\MyobPayslipCalculator.Tests.pdb

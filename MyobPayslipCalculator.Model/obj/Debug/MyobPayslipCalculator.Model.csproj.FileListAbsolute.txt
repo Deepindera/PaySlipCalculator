@@ -1,0 +1,4 @@
+C:\Users\Dee\documents\visual studio 2015\Projects\MyobPayslipCalculator\MyobPayslipCalculator.Model\bin\Debug\MyobPayslipCalculator.Model.dll
+C:\Users\Dee\documents\visual studio 2015\Projects\MyobPayslipCalculator\MyobPayslipCalculator.Model\bin\Debug\MyobPayslipCalculator.Model.pdb
+C:\Users\Dee\documents\visual studio 2015\Projects\MyobPayslipCalculator\MyobPayslipCalculator.Model\obj\Debug\MyobPayslipCalculator.Model.dll
+C:\Users\Dee\documents\visual studio 2015\Projects\MyobPayslipCalculator\MyobPayslipCalculator.Model\obj\Debug\MyobPayslipCalculator.Model.pdb
