@@ -1,0 +1,7 @@
+C:\Users\Dee\documents\visual studio 2015\Projects\MyobPayslipCalculator\MyobPayslipCalculator.Model\bin\Release\MyobPayslipCalculator.Model.dll
+C:\Users\Dee\documents\visual studio 2015\Projects\MyobPayslipCalculator\MyobPayslipCalculator.Model\bin\Release\MyobPayslipCalculator.Model.pdb
+C:\Users\Dee\documents\visual studio 2015\Projects\MyobPayslipCalculator\MyobPayslipCalculator.Model\obj\Release\MyobPayslipCalculator.Model.csprojResolveAssemblyReference.cache
+C:\Users\Dee\documents\visual studio 2015\Projects\MyobPayslipCalculator\MyobPayslipCalculator.Model\obj\Release\MyobPayslipCalculator.Model.dll
+C:\Users\Dee\documents\visual studio 2015\Projects\MyobPayslipCalculator\MyobPayslipCalculator.Model\obj\Release\MyobPayslipCalculator.Model.pdb
+C:\Users\Dee\Documents\Visual Studio 2015\Projects\MyobPayslipCalculator\MyobPayslipCalculator.Model\publish\MyobPayslipCalculator.Model.dll
+C:\Users\Dee\Documents\Visual Studio 2015\Projects\MyobPayslipCalculator\MyobPayslipCalculator.Model\publish\MyobPayslipCalculator.Model.pdb

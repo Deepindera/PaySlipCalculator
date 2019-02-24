@@ -6,10 +6,11 @@ using System.Text;
 using System.Text.RegularExpressions;
 using MyobPayslipCalculator.Model;
 using MyobPayslipCalculator.Model.Interfaces;
+using MyobPayslipCalculator.Services.Interfaces;
 
 namespace MyobPayslipCalculator.Services
 {
-    public class FileService
+    public class FileService: IFileService
     {
         private const string PERCENTSIGN = "%";
         private const char DELIMITER = ',';      
